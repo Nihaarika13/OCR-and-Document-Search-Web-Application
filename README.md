@@ -5,3 +5,4 @@ This OCR Web Application allows you to upload images containing text in Hindi an
 ![image](https://github.com/user-attachments/assets/7978c3ca-9f7c-4802-90c8-51e4bc73e604)
 ![image](https://github.com/user-attachments/assets/65fa608e-23bb-46bf-ab9b-bb835d095b16)
 ![image](https://github.com/user-attachments/assets/ab307c11-deae-4a6d-9f10-64b643c793c7)
+![image](https://github.com/user-attachments/assets/da127dea-bd6a-4799-82f3-56c87150daba)

@@ -1,0 +1,7 @@
+streamlit 
+pytesseract
+PIL
+re
+pandas
+json
+io

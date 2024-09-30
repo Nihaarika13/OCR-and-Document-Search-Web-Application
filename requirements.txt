@@ -1,6 +1,6 @@
 streamlit==1.36.0
-pytesseract==0.3.13
-Pillow==10.4.0
+pytesseract==0.3.10
+Pillow==10.0.0
 pandas==2.2.2
 numpy==1.25.0
-setuptools==75.1.0
+setuptools==57.5.0
